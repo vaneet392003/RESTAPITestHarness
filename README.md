@@ -43,6 +43,7 @@ Step 1 - If your Java project is Maven-based, you can execute tests in the comma
          mvn clean compile test
          
 Step 2 - make sure that you have JUnit dependency in the pom.xml file:
+         
          <dependency>
           <groupId>junit</groupId>
           <artifactId>junit</artifactId>
